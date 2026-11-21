@@ -1,6 +1,6 @@
 # CAD 工具/Tool
-基于 MFC 开发的 64 位绘图程序
-A 64-bit drawing application developed with MFC
+基于 MFC 开发的 64 位绘图程序，可自由切换中文版或英文版。
+A 64-bit drawing application developed with MFC. Switch between the Chinese and English editions easily.
 ## 功能/Function
 - 可用于常规机械制图，适合中小企业使用。
 - Suitable for small and medium-sized businesses for mechanical drawing.
@@ -29,4 +29,3 @@ A 64-bit drawing application developed with MFC
 
 ## 版本信息/Version
 Version v1.0
-Switch to Chinese or English edition easily.
